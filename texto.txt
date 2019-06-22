@@ -1,1 +1,3 @@
 Arquivo de teste para criação de um novo repositório no Github.
+
+Texto acrescentado para fazer um segundo commit.
